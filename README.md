@@ -2,12 +2,11 @@
 
 **An interactive 3D flight tour of the NASA robots left across the solar system, told in their own voices.**
 
-Made for the NASA Space Apps Challenge, "Tell the Story of NASA Hardware Left Across the Solar System."
+Made for the NASA Space Apps Challenge, "Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars"
 Written for ages 10 to 14.
 
-**Live demo:** `[add your GitHub Pages link here]`
-**Demo video (30 seconds):** `[add your video link here]`
-**Team / author:** `[add your name or team name here]`
+**Live demo:** `https://averageprogrammer78.github.io/Still-Out-There/`
+**Team / author:** `By Abhi Upadhyay`
 
 ---
 
@@ -90,6 +89,7 @@ Open `index.html` in a modern browser (Chrome, Edge, Firefox or Safari with WebG
 - Keyboard controls for the whole tour.
 - If WebGL is unavailable, the story text and controls still work.
 - Sound is off by default.
+- Comes with music you can play during your journey across the solar system.
 
 ## Known limitations
 
