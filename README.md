@@ -2,11 +2,12 @@
 
 **An interactive 3D flight tour of the NASA robots left across the solar system, told in their own voices.**
 
-Made for the NASA Space Apps Challenge, "Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars"
+Made for the NASA Space Apps Challenge:
+"Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars"
 Written for ages 10 to 14.
 
 **Live demo:** `https://averageprogrammer78.github.io/Still-Out-There/`
-**Team / author:** `By Abhi Upadhyay`
+**Author:** `By Abhi Upadhyay`
 
 ---
 
@@ -101,4 +102,4 @@ Open `index.html` in a modern browser (Chrome, Edge, Firefox or Safari with WebG
 
 Mission information: NASA and the NASA Space Science Data Coordinated Archive. This project is an independent educational entry and is not affiliated with or endorsed by NASA.
 
-License: `[add your preferred license]`
+License: `MIT License`
